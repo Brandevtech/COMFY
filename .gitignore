@@ -1,11 +1,3 @@
-advanced/*
-ComfyUI/*
-midia/*
-projetos/*
-python_embeded/*
-temp/*
-templates/*
-update/*
-ENTRADA.lnk
-INICIAR.cmd
-RELATORIO_MINIMAX_H3.md
+*
+!.agents/*
+!backups/*
