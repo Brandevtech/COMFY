@@ -1,3 +1,17 @@
 *
+!.gitignore
 !.agents/*
-!backups/*
+!templates/*
+!install/*
+!update/*
+!advanced/*
+!INICIAR.cmd
+!RELATORIO_MINIMAX_H3.md
+
+# Ignorar o que é muito grande ou gerado
+/python_embeded/
+/temp/
+/backups/
+/midia/
+/projetos/
+/__pycache__/
